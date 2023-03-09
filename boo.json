@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "640a389fdf4345b568606aad"
+  },
+  "id": {
+    "name": "Bar",
+    "surname": "Boo",
+    "email": "Bar@Boo.com",
+    "city": "Lagos",
+    "country": "Nigeria"
+  }
+}]
